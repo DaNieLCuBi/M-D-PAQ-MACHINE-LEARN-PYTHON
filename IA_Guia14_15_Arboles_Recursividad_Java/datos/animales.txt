@@ -1,0 +1,5 @@
+P:¿Vive en el agua?
+R:delfín
+P:¿Tiene plumas?
+R:loro
+R:perro

@@ -1,0 +1,5 @@
+1.	Cambia test_size a 0.3 en la Práctica 04. ¿Cómo cambian la pendiente y el R²? Explica por qué.
+2.	Crea un dataset de 30 registros con temperatura (°C) y ventas de helados. Entrena una regresión lineal simple y predice las ventas para 28 °C.
+3.	En la Práctica 05 agrega la variable distrito_premium (0 o 1) al cálculo del precio. ¿Mejora el R²?
+4.	Modifica la Práctica 06 para pedir las horas con input() y mostrar un mensaje si el valor no está entre 0 y 12.
+5.	Compara el MAE de un modelo que siempre predice el promedio de las notas con el MAE de tu regresión. ¿Cuánto mejora?

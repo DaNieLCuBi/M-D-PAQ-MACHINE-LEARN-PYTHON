@@ -1,0 +1,6 @@
+1.	NumPy: genera con default_rng(seed=7) un arreglo de 30 notas enteras entre 0 y 20. Muestra el promedio, la nota más alta, cuántos aprobaron (≥ 13) y el porcentaje de aprobados.
+2.	NumPy: crea una matriz 4×3 con arange y reshape. Calcula la suma por filas, el promedio por columnas y su transpuesta.
+3.	Pandas: crea un DataFrame con 8 productos (nombre, categoría, precio, stock). Agrega la columna valor_inventario = precio * stock y muestra los 3 productos con mayor valor.
+4.	Pandas: agrupa los productos por categoría y muestra el stock total y el precio promedio de cada una.
+5.	Limpieza de datos: a partir de ventas.csv, elimina las filas con datos faltantes usando dropna() y compara cuántas filas quedan frente a la versión con fillna(). Escribe en un comentario cuál método conviene y por qué.
+6.	Reto: descarga un dataset público en CSV (por ejemplo, de datosabiertos.gob.pe), cárgalo con Pandas, muestra info() y describe(), y elabora un gráfico de barras con un resumen agrupado.

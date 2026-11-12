@@ -1,0 +1,6 @@
+1.	Scikit-learn: en el Paso 11 prueba con n_neighbors igual a 1, 3, 7 y 15. Anota la exactitud de cada uno en una tabla y explica cuál elegirías.
+2.	Scikit-learn: carga el dataset load_wine() y repite el Paso 12 agregando el modelo RandomForestClassifier(random_state=42). ¿Cuál obtiene el mejor promedio?
+3.	Scikit-learn: modifica el Paso 13 para que los datos tengan más ruido (rng.normal(0, 3, ...)). ¿Cómo cambian el MAE y el R²?
+4.	PyTorch: en el Paso 15 cambia lr a 0.001 y a 0.05. Describe qué pasa con la pérdida y con los valores aprendidos.
+5.	PyTorch: en el Paso 16 agrega una segunda capa oculta de 8 neuronas con ReLU. Compara la exactitud con la red original.
+6.	Reto integrador: carga los pesos guardados en red_iris.pth en un nuevo archivo (modelo.load_state_dict(torch.load("red_iris.pth"))) y predice la especie de 3 flores inventadas por ti.

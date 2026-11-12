@@ -1,0 +1,6 @@
+1.	SciPy: registra las notas de dos de tus cursos (al menos 8 notas por curso) y aplica ttest_ind. ¿Hay diferencia significativa entre ambos cursos?
+2.	SciPy: usa optimize.minimize_scalar para hallar el mínimo de f(x) = x² − 6x + 13 y comprueba el resultado derivando a mano.
+3.	SciPy: resuelve con linalg.solve el sistema: x + y + z = 6, 2x − y + z = 3, x + 2y − z = 2.
+4.	NLTK: copia un párrafo de una noticia en español, obtén las 10 palabras más frecuentes (sin stopwords) y muéstralas en un gráfico con frecuencia.plot(10).
+5.	NLTK: agrega 10 opiniones más al clasificador del Paso 13 (5 positivas y 5 negativas) y aplica stemming en extraer_caracteristicas. ¿Mejora la clasificación de “La clase fue aburrida”?
+6.	Reto integrador: agrega dos documentos más al Paso 14 y, para una pregunta escrita por el usuario con input(), muestra cuál documento es el más parecido.

@@ -1,0 +1,6 @@
+1.	En 01_neurona.py, cambia los pesos para que la asistencia sea lo más importante. Prueba con tres estudiantes distintos y explica los resultados.
+2.	En 02_activaciones.py, agrega una quinta gráfica con la función lineal (y = z).
+3.	En 04_primera_red.py, cambia los datos para que la red aprenda y = 3x − 2. ¿Qué peso y sesgo aprendió?
+4.	En 05_red_iris.py, cambia la capa de 10 neuronas por una de 4 neuronas y luego por una de 32. Anota la exactitud en prueba de cada caso en una tabla.
+5.	Cambia epochs=100 por epochs=20. ¿Qué pasa con la exactitud y con la curva de aprendizaje?
+6.	Reto: escribe un script 06_cargar_modelo.py que cargue modelo_iris.keras y prediga la especie de la flor [6.7, 3.0, 5.2, 2.3]. (Recuerda que también debes escalar los datos.)
