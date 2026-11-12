@@ -1,0 +1,17 @@
+Asistencia,Tareas,Estudia,Aprueba 
+Alta,Completas,Sí,Sí 
+Alta,Completas,No,Sí 
+Alta,Incompletas,Sí,Sí 
+Alta,Incompletas,No,No 
+Media,Completas,Sí,Sí 
+Media,Completas,No,Sí 
+Media,Incompletas,Sí,Sí 
+Media,Incompletas,No,No 
+Baja,Completas,Sí,Sí 
+Baja,Completas,No,No 
+Baja,Incompletas,Sí,No 
+Baja,Incompletas,No,No 
+Alta,Completas,Sí,Sí 
+Media,Incompletas,No,No 
+Baja,Completas,Sí,Sí 
+Baja,Incompletas,No,No 
