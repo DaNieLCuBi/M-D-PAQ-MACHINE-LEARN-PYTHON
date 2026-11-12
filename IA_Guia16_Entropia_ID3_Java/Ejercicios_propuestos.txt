@@ -1,0 +1,13 @@
+1.  Calcula a mano la entropía de los conjuntos [6 Sí, 2 No], [4 Sí, 4 No] y [3, 3, 2] (tres clases). 
+Verifica tus resultados agregándolos a la Práctica 01. 
+2.  Adapta la Práctica 02 para calcular la ganancia de los 4 atributos de creditos.csv con las 24 
+filas. ¿Qué atributo sería la raíz? ¿Coincide con el árbol de la Práctica 04? Explica por qué 
+podría ser diferente. 
+3.  Agrega al archivo jugar_tenis.csv el día 15: Nublado, Templado, Alta, Débil, No. Vuelve 
+a ejecutar la Práctica 03. ¿Cómo cambia el árbol? 
+4.  Crea tu propio dataset aprobacion.csv con al menos 14 filas y los atributos Asistencia 
+(Alta/Media/Baja), Tareas (Completas/Incompletas), Estudia (Sí/No) y la clase Aprueba (Sí/No). 
+Construye el árbol con ID3 y muestra sus reglas. 
+5.  Modifica la Práctica 04 para mostrar la matriz de confusión: verdaderos positivos, verdaderos 
+negativos, falsos positivos (créditos aprobados que debían denegarse) y falsos negativos. ¿Qué 
+error es más costoso para la cooperativa?
